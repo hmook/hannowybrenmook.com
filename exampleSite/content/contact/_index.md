@@ -5,4 +5,4 @@ description : "this is meta description"
 image: "images/contact.svg"
 ---
 
-Neem contact met ons op.
+Send us an email with the tool you like to add to our collection.
