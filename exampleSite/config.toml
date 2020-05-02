@@ -7,11 +7,11 @@ theme = "northendlab-hugo"
 title = "Tools for Mac"
 [[menu.footer]]
 URL = "contact"
-name = "Contact"
+name = "Add your Tool"
 weight = 1
 [[menu.footer]]
 URL = "tools"
-name = "tools"
+name = "Tools"
 weight = 2
 [[menu.main]]
 URL = "contact"
