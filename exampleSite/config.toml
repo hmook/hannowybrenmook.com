@@ -55,7 +55,7 @@ link = "plugins/search/search.js"
 enable = true
 preloader = ""
 [params.search]
-enable = true
+enable = false
 [[params.social]]
 icon = "ti-facebook"
 link = "#"
