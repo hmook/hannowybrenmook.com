@@ -1,5 +1,5 @@
 +++
-title = "John Doe"
+title = "Hanno-Wybren Mook"
 image = "/images/author/john-doe.jpg"
 description = "Front end developer"
 +++
