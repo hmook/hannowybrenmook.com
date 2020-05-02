@@ -1,4 +1,4 @@
-baseURL = "https://hannowybrenmook.netlify.com"
+baseURL = "https://hannowybrenmook.netlify.app"
 disqusShortname = ""
 languageCode = "en-us"
 paginate = "5"
