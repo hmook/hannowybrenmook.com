@@ -17,7 +17,7 @@ weight = 2
 home = ["HTML", "AMP", "RSS", "JSON"]
 [params]
 author = "Themefisher"
-contact_form_action = "#"
+contact_form_action = "https://formspree.io/xrgygzqy"
 copyright = "&copy; 2020 ToolsForMac All Rights Reserved"
 description = "A currated list of MacOS tools to get the most out of your Mac"
 google_analitycs_id = ""
