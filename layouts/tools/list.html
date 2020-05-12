@@ -10,7 +10,7 @@
           {{ end }}
         </div>
       </div>
-      <div class="col-9">
+      <div class="col-12">
         <div class="tab-content">
           {{ range $index, $elemen:= .Site.Data.tools.tools }}
           <div class="tab-pane fade {{ if eq $index 0}} show active {{ end }}" id="{{.title | urlize}}" role="tabpanel">
